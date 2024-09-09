@@ -1,6 +1,6 @@
-# Group-B-applied-tm
+# Applied Text Mining
 
-## Authors (group B): 
+## Authors: 
 Selin Acikel, Murat Ertas, Guo Ningxuan, Csenge Szabo
 
 ## Introduction
